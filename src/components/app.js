@@ -6,9 +6,9 @@ export default class App extends Component {
     return (
       <div>
         <h1>React, Props, and State Deep Dive</h1>
+        <h2>Mekawen el marron que es esto</h2>
 
         <JournalList heading="List 1" />
-        <JournalList heading="List 2" />
       </div>
     );
   }
